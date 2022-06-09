@@ -1,0 +1,10 @@
+bin
+build
+
+.vscode
+.idea
+
+lib/*
+!lib/CMakeLists.txt
+!lib/fetch_deps.sh
+cmake-build-debug/
